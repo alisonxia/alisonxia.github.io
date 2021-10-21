@@ -37,7 +37,7 @@ a:hover {
 }
 button {
   padding: 10px 20px;
-  margin: 10px;
+  margin: 5px;
 }
 
 body {
@@ -52,7 +52,7 @@ body {
   margin: 0px 100px;
 }
 footer {
-  margin: 5% 0px;
+  margin: 3.5% 0px;
   margin-bottom: 10px;
   text-align: center;
   font-size: 15px;
@@ -81,4 +81,8 @@ footer {
   .column {
     width: 100%;
   }
+}
+.resize {
+  height:30px;
+  width: auto;
 }
