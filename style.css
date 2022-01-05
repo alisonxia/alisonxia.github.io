@@ -92,3 +92,6 @@ button:hover {
   margin-right: 50px;
   margin-bottom: 20px;
 }
+musicButton {
+  float: left;
+}
